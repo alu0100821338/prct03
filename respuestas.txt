@@ -1,3 +1,5 @@
 Respuestas a las preguntas de la práctica 3
 
  1.- ¿Cuál es el propósito de trabajar con mútiples ramas?
+
+ 2.- ¿Qué es una reorganización (rebase)?
